@@ -37,7 +37,8 @@ class TermsPolicyViewModel(
                     identifier = userInfo.identification,
                     organization = userInfo.organization,
                     phone = null,
-                    email = null
+                    email = null,
+                    photoPath = ""
                 )
             )
 
